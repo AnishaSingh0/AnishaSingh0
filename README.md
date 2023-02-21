@@ -8,8 +8,8 @@
 - 😄 Pronouns: She/her 
 
 ###  🔭 I am currently working on 
-Project 1: Creating a website using HTML, CSS, and JavaScript
-Project 2: Developing a Python application with databases 
+- Project 1: Creating a website using HTML, CSS, and JavaScript
+- Project 2: Developing a Python application with databases 
 
 ### 🌱 I’m currently learning 
 - Python 
@@ -21,9 +21,9 @@ Project 2: Developing a Python application with databases
 
 
 ### Languages
-English (Fluent)
-Hindi (Mother tongue)
-Mandarin (Beginner)
+- English (Fluent)
+- Hindi (Mother tongue)
+- Mandarin (Beginner)
 
 ### 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/anisha
