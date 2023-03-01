@@ -26,7 +26,7 @@
 - Mandarin (Beginner)
 
 ### 📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/anisha
+LinkedIn: (https://www.linkedin.com/in/anisha-singh-505224173/)
 
 
 
