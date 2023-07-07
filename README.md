@@ -4,7 +4,7 @@
 
 ### About Me
 - 🎓 Electrical and Electronics Engineering graduate 
-- 💻 Currently working as a Test Engineer but want to become a SWE 
+- 💻 Currently working as an apprentice at Funding Circle 
 - 😄 Pronouns: She/her 
 
 ###  🔭 I am currently working on 
