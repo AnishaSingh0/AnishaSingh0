@@ -22,7 +22,7 @@
 
 ### Languages
 - English (Fluent)
-- Hindi (Mother tongue)
+- Hindi (Fluent)
 - Mandarin (Beginner)
 
 ### 📫 How to reach me:
